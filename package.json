@@ -1,0 +1,7 @@
+{
+  "name": "find-largest-first-word",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Saurabh Nemade",
+  "license": "MIT"
+}
